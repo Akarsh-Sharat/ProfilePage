@@ -1,2 +1,2 @@
 # Profile Page
-_*Hosted@*_
+**_Hosted_**
